@@ -13,6 +13,6 @@ class MainActivity : AppCompatActivity() {
         val myWebView = findViewById<WebView>(R.id.container_web_view)
         val webSettings = myWebView.settings
         webSettings.javaScriptEnabled = true
-        myWebView.loadUrl("http://192.168.0.19:4200/")
+        myWebView.loadUrl("https://umb-rutas-e1076.firebaseapp.com/")
     }
 }
