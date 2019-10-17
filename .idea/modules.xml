@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/UMB-SRC.iml" filepath="$PROJECT_DIR$/UMB-SRC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CoigoAndroidSCR.iml" filepath="$PROJECT_DIR$/CoigoAndroidSCR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lizeth-CoigoAndroidSCR.iml" filepath="$PROJECT_DIR$/Lizeth-CoigoAndroidSCR.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
